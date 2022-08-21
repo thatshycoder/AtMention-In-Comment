@@ -10,28 +10,29 @@ A plugin that enables you to mention @comment__author in comments.
  
 == Description ==
 
-A light-weight plugin that enables you mention comment author(s) in comments. After comment authors are mentioned, notification email will be sent to mentioned authors, with URL to the exact comments they got mentioned in. 
+Increase engagement on your WordPress website by adding a Twitter-like mention feature to your comment section.
 
-Comment authors does not have to be registered users before they can get notification emails!
+AtMention in Comments is a simple plugin that makes it possible for comment authors to get notified, whenever they are mentioned in a comment on any post.
+
 
 ### Features of the plugin include:
 
 * Mention multiple comment authors in comment.
-* Mention both registered and non-registered comment authors
-* Send notification email to mentioned comment authors 
+* Mention both registered and non-registered comment authors.
+* Send notification email to mentioned comment authors. 
 * Customize notification email sent to comment authors.
-* Customize mention text color.
-* Supports HTML email!
+* Customize @mention text color.
+* Notification email supports HTML.
 
 ### How to Use
 
-* When you wish to mention a comment author **John** in your comment: Hello @john 
-* When you wish to mention a comment author **John Doe** in your comment: We use two underscores to replace the spaces between the name like this -> Hello @joh__doe   
+* Simply type **@** followed by the author name(**@john**), in a comment to mention the comment author.
+* Mention authors with spaces in their name by simply replacing the spaces with underscores. Eg: ** @joh__doe **
 
 == Installation ==
 
 You can install AtMention in Comments Plugin just like you install any other WordPress  plugin.
-Navigate to your WordPress �Plugins� page, inside of your WordPress dashboard, and follow these instructions:
+From WordPress dashboard, navigate to Plugins page.
 
 1. In the search field enter **AtMention in Comments**. Click "Search Plugins", or hit Enter.
 1. Select **AtMention in Comments** and click either "Details" or "Install Now".
