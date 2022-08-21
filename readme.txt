@@ -3,7 +3,7 @@ Contributors: turn2honey
 Tags: comments, mentions, twitter mention
 Requires at least: 3.6.1
 Tested up to: 6.0.1
-Stable tag: 2.0.0
+Stable tag: 2.0.1
 License: GPL-2.0+
 
 A plugin that enables you to mention @comment__author in comments.
@@ -21,13 +21,13 @@ AtMention in Comments is a simple plugin that makes it possible for comment auth
 * Mention both registered and non-registered comment authors.
 * Send notification email to mentioned comment authors. 
 * Customize notification email sent to comment authors.
-* Customize @mention text color.
+* Customize **@mention** text color.
 * Notification email supports HTML.
 
 ### How to Use
 
 * Simply type **@** followed by the author name(**@john**), in a comment to mention the comment author.
-* Mention authors with spaces in their name by simply replacing the spaces with underscores. Eg: ** @joh__doe **
+* Mention authors with spaces in their name by simply replacing the spaces with underscores. Eg: **@joh__doe**
 
 == Installation ==
 
