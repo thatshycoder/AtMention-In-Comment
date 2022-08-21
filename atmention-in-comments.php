@@ -7,7 +7,7 @@
  * Plugin Name: AtMention in Comments
  * Plugin URI: https://wordpress.org/plugins/atmention-in-comments
  * Description: Mention both registered and non registered @comment_authors in post comments
- * Version: 2.0.0
+ * Version: 2.0.1
  * Author: Shycoder
  * Author URI: https://shycoder.com
  */
